@@ -4,3 +4,6 @@
 [submodule "ccn-lite"]
 	path = ccn-lite
 	url = git@github.com:inetrg/ccn-lite.git
+[submodule "openDSME"]
+	path = openDSME
+	url = git@github.com:inetrg/openDSME.git
