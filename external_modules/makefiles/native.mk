@@ -1,0 +1,1 @@
+  USEMODULE += netdev_default
