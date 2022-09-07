@@ -35,7 +35,7 @@ LoRa-ICN nodes.
 Please follow our [Getting Started](getting_started.md) instructions for further information on how to compile and execute the code.
 
 <!-- TODO: update URLs -->
-[paper-link]:https://github.com/inetrg/ACM-ICN-LoRa-ICN-2022
-[preprint-link]:https://github.com/inetrg/ACM-ICN-LoRa-ICN-2022.git
-[paper-badge]:https://img.shields.io/badge/Paper-ACM%20DL-gray
-[preprint-badge]: https://img.shields.io/badge/Preprint-arXiv-gray
+[paper-link]:https://doi.org/10.1145/3517212.3558081
+[preprint-link]:https://arxiv.org/abs/2209.00863
+[paper-badge]:https://img.shields.io/badge/Paper-ACM%20DL-green
+[preprint-badge]: https://img.shields.io/badge/Preprint-arXiv-green
