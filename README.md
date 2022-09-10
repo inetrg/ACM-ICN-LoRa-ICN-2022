@@ -2,6 +2,7 @@
 
 [![Paper][paper-badge]][paper-link]
 [![Preprint][preprint-badge]][preprint-link]
+[![Video][video-badge]][video-link]
 
 This repository contains code and documentation to reproduce experimental results of the paper **"[Delay-Tolerant ICN and Its Application to LoRa][preprint-link]"** published in Proc. of ACM ICN 2022.
 
@@ -37,5 +38,7 @@ Please follow our [Getting Started](getting_started.md) instructions for further
 <!-- TODO: update URLs -->
 [paper-link]:https://doi.org/10.1145/3517212.3558081
 [preprint-link]:https://arxiv.org/abs/2209.00863
+[video-link]:https://youtu.be/PXPXehfOkBs
 [paper-badge]:https://img.shields.io/badge/Paper-ACM%20DL-green
 [preprint-badge]: https://img.shields.io/badge/Preprint-arXiv-green
+[video-badge]:https://img.shields.io/youtube/views/PXPXehfOkBs?style=social
